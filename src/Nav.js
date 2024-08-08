@@ -13,7 +13,7 @@ function Nav() {
         <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="gfg logo" className='gfglogo' />
       </div>
       <div className="navright">
-        Hello
+        Hello WOrld
       </div>
       </div>
     </div>
